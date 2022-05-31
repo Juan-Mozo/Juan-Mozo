@@ -1,3 +1,3 @@
 - 👀 Buscando mi primer trabajo IT
-- 🌱 Desarrollador Android // Kotlin, dispuesto a aprender nuevas tecnologías que puedan contribuir en esta área.
+- 🌱 Desarrollador Android // Kotlin.
 - 📫 Contacto: mozojuanignacio@outlook.es
