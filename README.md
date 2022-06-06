@@ -1,3 +1,4 @@
+:rainbow_flag:
 - 👀 Buscando mi primer trabajo IT
 - 🌱 Desarrollador Android // Kotlin.
-- 📫 Contacto: mozojuanignacio@outlook.es
+- 📫 Contacto: Jmozoignacio@gmail.com
